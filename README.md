@@ -14,6 +14,7 @@
 
 **Implemented:**
 - "Eslint" added
+- "Commitizen" added. The repository is made "commitizen friendly"
 
 **To run Eslint:**
 - run the command *eslint [folder / file]* in the terminal
@@ -21,5 +22,15 @@
 
 **example:**
 > eslint src --fix
+
+**To run commit via *commitizen*:**
+- run the command *git cz* in the terminal
+- Following the prompts in the terminal and using the cursor keys, select the settings you want for the future commit
+- Following the prompts in the terminal add a description of the fields that you think are necessary
+
+**example:**
+> git cz
+
+![The appearance of the terminal when working with commitizen](https://ruswc.github.io/js-band-hw-task-3/gitcz.png)
 
 **The application can be checked at:** https://ruswc.github.io/js-band-hw-task-3/public/index.html
