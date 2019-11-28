@@ -33,7 +33,11 @@
     - git push
 
 **example:**
-> git cz
+```
+ git add .
+ git-cz
+ git push
+```
 
 ![The appearance of the terminal when working with commitizen](https://github.com/ruswc/js-band-hw-task-4/blob/master/gitcz.png)
 
