@@ -31,6 +31,7 @@
 **example:**
 > git cz
 
-![The appearance of the terminal when working with commitizen](https://ruswc.github.io/js-band-hw-task-3/gitcz.png)
+![The appearance of the terminal when working with commitizen](https://github.com/ruswc/js-band-hw-task-4/blob/master/gitcz.png)
+
 
 **The application can be checked at:** https://ruswc.github.io/js-band-hw-task-3/public/index.html
