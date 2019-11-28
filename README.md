@@ -56,7 +56,7 @@
 ```
 ![The appearance of the terminal when working with jest](https://github.com/ruswc/js-band-hw-task-4/blob/master/jesttest.png)
 
-**The application can be checked at:** https://ruswc.github.io/js-band-hw-task-3/public/index.html
+**The application can be checked at:** https://ruswc.github.io/js-band-hw-task-4/public/index.html
 
 #### Structure of the project
 
