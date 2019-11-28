@@ -17,7 +17,7 @@
 - "Commitizen" added. The repository is made "commitizen friendly"
 - "Jest' added. Two test tests have been written (first - successful, second - unsuccessful). Test folder is located in '/src/test'. 
 
-**To run Eslint:**
+#### **To run Eslint:**
 - run the command *eslint [ folder / file ]* in the terminal
 - to fix the errors automatically, add the *--fix* flag
 
@@ -40,12 +40,10 @@
  git push
 ```
 
-**example:**
-> eslint src --fix
 
 ![The appearance of the terminal when working with commitizen](https://github.com/ruswc/js-band-hw-task-4/blob/master/gitcz.png)
 
-**To run *Jest*:**
+#### **To run *Jest*:**
 - run the command *jest [ file name ]* in the terminal
 - The test results are displayed in the console
 
