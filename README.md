@@ -27,6 +27,7 @@
 - run the command *git cz* in the terminal
 - Following the prompts in the terminal and using the cursor keys, select the settings you want for the future commit
 - Following the prompts in the terminal add a description of the fields that you think are necessary
+- git-cz --retry
 
 **example:**
 > git cz
